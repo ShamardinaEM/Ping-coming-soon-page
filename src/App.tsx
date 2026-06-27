@@ -61,7 +61,7 @@ function App() {
                     </form>
                 </div>
                 <img
-                    src="/illustration-dashboard.png"
+                    src="./illustration-dashboard.png"
                     alt="dashboard"
                     className="dashboard-img"
                 />
